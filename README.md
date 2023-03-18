@@ -18,6 +18,9 @@
 
 ![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white) https://t.co/ijEdU3PNvW
 
+.qexz
+
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) https://twitter.com/Honey_suxxle
 
-https://user-images.githubusercontent.com/121121650/226121717-57acf1c2-9a77-4274-bc4f-8cc77920e9f1.mp4
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/121121650/226124570-c61ecef3-94d1-4f75-a62b-9b6c62e2c8d7.gif)
