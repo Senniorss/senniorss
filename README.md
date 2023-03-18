@@ -15,4 +15,9 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 # **Pfp by HoneySuxxle**
+
+![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white) https://t.co/ijEdU3PNvW
+
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) https://twitter.com/Honey_suxxle
+
 https://user-images.githubusercontent.com/121121650/226121717-57acf1c2-9a77-4274-bc4f-8cc77920e9f1.mp4
